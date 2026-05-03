@@ -1,0 +1,20 @@
+{
+  "deckTitle": "TypeScript Career Evolution 2026",
+  "version": "1.0",
+  "topic": "TypeScript Career Evolution 2026",
+  "narrativeArc": "Problem-Solution-Proof",
+  "slides": [
+    {
+      "slideNumber": 1,
+      "slideType": "Hero",
+      "layout": "Hero Metric",
+      "title": "TypeScript Careers Have Moved From Skill to Standard",
+      "subtitle": "In 2026, TypeScript is baseline infrastructure for modern software teams",
+      "coreMessage": "TypeScript is no longer just a frontend advantage.",
+      "metrics": [{"label":"GitHub rank","value":"#1","context":"Most-used language.","source":"GitHub Octoverse 2025"}],
+      "chartData": {"chartType":"heroMetric","data":[{"label":"GitHub leadership","value":1}]},
+      "quote": {"text":"For the first time, TypeScript overtook both Python and JavaScript.","attribution":"GitHub Octoverse 2025"},
+      "sources": ["https://github.blog/news-insights/octoverse/"]
+    }
+  ]
+}
